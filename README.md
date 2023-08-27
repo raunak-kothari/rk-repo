@@ -1,2 +1,3 @@
 # rk-repo
-this repo contains projects done by "Raunak Kothari"
+this repo contains some projects done by "Raunak Kothari"
+Edited & designed by - "Raunak Kothari"
