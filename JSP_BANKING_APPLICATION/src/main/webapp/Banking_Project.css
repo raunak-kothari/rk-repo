@@ -1,0 +1,91 @@
+@charset "ISO-8859-1";
+
+.body {
+	font-size: x-large;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	backdrop-filter: blur(15px);
+	width: 70%;
+	margin: auto;
+	border: 5px double pink;
+	box-shadow: 10px 10px;
+	margin-bottom: 30px;
+
+}
+
+.sub_head {
+	background-color: yellow;
+	color: black;
+	border-radius: 20px;
+	width: 200%;
+	padding: 10px;
+	margin-bottom: 10px;
+	align-items: center;
+	text-align: center;
+	font-size: xx-large;
+	
+}
+
+
+.submit {
+	background-color: limegreen;
+	color: black;
+	font-size: 20px;
+
+}
+
+.reset {
+	background-color: rgb(192, 192, 192);
+	color: black;
+	font-size: 20px;
+}
+
+.del {
+	background-color: red;
+	color: white;
+	font-size: 20px;
+}
+.t1{
+	border-collapse: collapse;
+	background-color: #006661;
+	padding: 5px;
+	
+}
+
+a{
+	color: white;
+	
+}
+a:hover {
+  background-color: royalblue;
+  border-radius: 5px;
+  margin: auto;
+}
+
+td{
+	text-align: center;
+  vertical-align: middle;
+}
+input,textarea{
+	background-color: gray;
+	font-family: cursive;
+	font-size: 20px;
+}
+::placeholder{
+	color: white;
+	font-size: 15px;
+}
+.center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h1{
+	text-align: center;
+}
+
+.input-box {
+  width: 300px;
+  height:50px;
+  text-align: center;
+}
