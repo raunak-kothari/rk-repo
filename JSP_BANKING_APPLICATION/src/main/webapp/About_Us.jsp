@@ -7,48 +7,45 @@
 <title>About</title>
 <style>
 body {
-	background-image: url("sdfc_logo.png");
-	background-position: top;
-	background-repeat: no-repeat;
-	align-self: center;
+	
 	text-align: center;
+	background-image: url("about_us.jpg");
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-div {
-	
-}
 
 h1, h2, h3 {
-	background-color: black;
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 	color: white;
-	width: 30%;
+	width: 33%;
 	padding: 5px;
 	margin: 10px;
 	border-radius: 20px;
+}
+h2{
+font-size: 30px;
+width: 40%
+
 }
 </style>
 </head>
 <body>
 
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-
-
 	
+	<div align="center">
+
+	<img alt="Image Load Fail" src="sdfc_logo.png" align="top">
+	<br><br><br>
 		<h1>Banking Application Project</h1>
 		<br>
-		<h1>Developed by Mr.Raunak Kothari</h1>
+		<h1>Developed by : Mr.Raunak Kothari</h1>
 		<br>
 		<br>
-		<h1>Email id: raunakkothari429@gmail.com</h1>
+		<h2>Email id: raunakkothari429@gmail.com</h2>
 		<br>
 		<br>
 		<br>
